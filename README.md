@@ -11,5 +11,5 @@
 
 ## To run the web app Follow the steps:- 
 ### npm install (To istall the important dependecies required to run the project)
-### npm start   (in the root foloder)
+### npm start   (in the root folder)
 
