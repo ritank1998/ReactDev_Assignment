@@ -1,0 +1,24 @@
+.myCard{
+    width: 1000px;
+    margin-top: 10px;
+    border-style: solid black;
+    border-width: medium;
+}
+.img-fluid{
+    height: 200px;
+    width: 200px;
+    border-style: solid black;
+    border-radius: 20px;
+}
+.btn1{
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 10px;
+    transition: 0.5s;
+    color: #3498db;
+    border: 2px solid #3498db;
+    text-decoration: none;
+}
